@@ -1,0 +1,102 @@
+h1{
+    text-decoration-line: underline;
+}
+div{
+    font-family: italic;
+}
+#top{
+font-family: 'Inter';
+font-style: normal;
+color: #000000;
+}
+.sec{
+width: 962px;
+height: 77px;
+left: 58px;
+top: 742px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 77px;
+text-decoration-line: underline;
+color: #000000;
+}
+img{
+    width: 1051px;
+    height: 762px;
+    left: 58px;
+    top: 874px;
+    background: url(dog.png);
+    }
+#link{
+    width: 245px;
+height: 48px;
+left: 58px;
+top: 1670px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+text-decoration-line: underline;
+
+color: #000000;
+}
+#last{
+
+
+font-family: Inter;
+font-size: 64px;
+font-weight: 700;
+line-height: 77px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+ol{
+    font-family: Inter;
+font-size: 40px;
+font-weight: 400;
+line-height: 48px;
+letter-spacing: 0em;
+text-align: left;
+}
+.link{
+font-family: Inter;
+font-size: 32px;
+font-weight: 400;
+line-height: 39px;
+letter-spacing: 0em;
+text-align: left;
+}
+#h{
+    font-family: Inter;
+font-size: 40px;
+font-weight: 400;
+line-height: 48px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+p{
+    
+
+font-family: Inter;
+font-size: 40px;
+font-weight: 100;
+line-height: 48.41px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+strong{
+    font-family: Inter;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+}
